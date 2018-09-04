@@ -8,5 +8,11 @@ end_of_line = lf
 charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
+<<<<<<< HEAD
 [*.md]
 trim_training_whitespace =
+=======
+
+[*.md]
+trim_trailing_whitespace = false
+>>>>>>> 27a1f6549da23880f2275685d970d06b66cb22e5
